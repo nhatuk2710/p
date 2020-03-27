@@ -1,5 +1,5 @@
 @extends('admin.layout')
-@section('listsales')
+@section('admin.listsales')
         <div class="container-fluid">
             <div class="col-md-12 col-lg-12 col-sm-12">
                 <div class="white-box">
