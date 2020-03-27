@@ -30,8 +30,8 @@
                                 <td>{{$c->id}}</td>
                                 <td class="txt-oflo">{{$c->product_name}}</td>
                                 <td class="txt-oflo">{{$c->age}}</td>
-                                <td>{{$c->telephone}}</td>
                                 <td>{{$c->product_desc}}</td>
+                                <td>{{$c->telephone}}</td>x
                                 <td>
                                 <div class="icon-arrows-button-on">
                                     <button class="item" data-toggle="tooltip" data-placement="top" title="Edit">
