@@ -118,7 +118,7 @@
                 <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
                     <h4 class="page-title">Dashboard</h4> </div>
                 <div class="col-lg-9 col-sm-8 col-md-8 col-xs-12">
-                    <a href="{{url("admin/category/brandcreate")}}" target="_blank" class="btn btn-danger
+                    <a href="{{url("admin/category/created")}}" target="_blank" class="btn btn-danger
                     pull-right m-l-20 hidden-xs hidden-sm waves-effect waves-light">Add to cart</a>
                     <ol class="breadcrumb">
                         <li><a href="#">Dashboard</a></li>
